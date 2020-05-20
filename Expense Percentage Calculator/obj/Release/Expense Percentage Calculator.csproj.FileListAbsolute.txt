@@ -1,0 +1,8 @@
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\bin\Release\Expense Percentage Calculator.exe.config
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\bin\Release\Expense Percentage Calculator.exe
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\bin\Release\Expense Percentage Calculator.pdb
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\obj\Release\Expense_Percentage_Calculator.Form1.resources
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\obj\Release\Expense_Percentage_Calculator.Properties.Resources.resources
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\obj\Release\Expense Percentage Calculator.csproj.GenerateResource.Cache
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\obj\Release\Expense Percentage Calculator.exe
+C:\Users\Ivo\documents\visual studio 2013\Projects\Expense Percentage Calculator\Expense Percentage Calculator\obj\Release\Expense Percentage Calculator.pdb
